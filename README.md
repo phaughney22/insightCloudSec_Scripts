@@ -1,4 +1,4 @@
-# insightCloudSec_Scritps
+# insightCloudSec_Scripts
 Scripts for automation with Rapid7's insightCloudSec
 
 params.py will need to be updated to define the parameters specific for your installation. 
